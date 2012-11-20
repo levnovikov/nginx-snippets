@@ -2,4 +2,4 @@ nginx
 =====
 Misc nginx configs.
 
-- image_proxy.conf - Cache images rom storage on frontend server.
+- image_proxy.conf - Cache images from storage on frontend server.
